@@ -1,6 +1,8 @@
 # differentialbearingpuller
 Differential Bearing Puller
 
+Aug 2016 - Project @ Tesla
+
 In order to save perfectly good differentials, we need to replace the top and bottom bearing on each. The top bearing is easy to remove 
 since you can get underneath it and pull it off. However, you cannot get underneath the bottom bearing. So I collaborated with
 our machinist to develop a puller that would clamp and pull the bearing off without damaging the differntial. 
